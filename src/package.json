@@ -1,0 +1,17 @@
+{
+  "name": "表单项",
+  "description": "An auto-generated demo by dumi",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/pro-components": "2.7.14",
+    "antd": "5.19.3",
+    "mockjs": "1.1.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@ant-design/pro-form": "2.28.4",
+    "@ant-design/icons": "5.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4"
+  }
+}
